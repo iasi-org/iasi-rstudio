@@ -1,0 +1,18 @@
+---
+title: "{{ title }}"
+subtitle: "Engineering Decision Record"
+date: today
+format: html
+---
+
+## Contexto
+
+Describe el problema, las restricciones y las circunstancias que requieren una decisión.
+
+## Decisión
+
+Explica la decisión adoptada y sus aspectos esenciales.
+
+## Consecuencias
+
+Describe los beneficios, costes, riesgos y compromisos derivados de la decisión.

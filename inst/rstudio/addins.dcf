@@ -1,0 +1,4 @@
+Name: Crear EDR
+Description: Crea un documento EDR a partir de la plantilla IASI.
+Binding: create_edr
+Interactive: true

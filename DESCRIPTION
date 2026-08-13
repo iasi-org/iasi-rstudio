@@ -1,0 +1,21 @@
+Package: iasi.rstudio
+Type: Package
+Title: RStudio Interface for the IASI Ecosystem
+Version: 0.0.0.9000
+Authors@R: person(
+    given = "Javier",
+    family = "G. Grandez",
+    email = "jggrandez@gmail.com",
+    role = c("aut", "cre")
+    )
+Description: Provides a thin RStudio addin interface for the IASI toolchain.
+    The package delegates build and publish operations to 'iasi.quarto' and
+    development operations to the IASI command-line tools.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    miniUI,
+    shiny,
+    rstudioapi
+RoxygenNote: 7.3.2
