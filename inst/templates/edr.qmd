@@ -1,18 +1,68 @@
 ---
-title: "{{ title }}"
-subtitle: "Engineering Decision Record"
-date: today
-format: html
+title: "Registro de Decisión"
 ---
+
+# Registro de Decisión
+
+| **Campo** | **Valor** |
+|---|---|
+| **Título** | |
+| **ID** | |
+| **Grupo** | |
+| **Fecha** | |
+| **Responsable** | |
+| **Aprobado por** | |
+| **Estado** | |
+| **Versión** | |
+| **Sustituye a** | |
+| **Decisiones relacionadas** | |
+| **Origen** | |
 
 ## Contexto
 
-Describe el problema, las restricciones y las circunstancias que requieren una decisión.
+¿Cuál es el problema, necesidad o situación que requiere tomar una decisión?
 
 ## Decisión
 
-Explica la decisión adoptada y sus aspectos esenciales.
+¿Qué hemos decidido?
+
+## Justificación
+
+¿Por qué hemos tomado esta decisión?
+
+## Alternativas consideradas
+
+¿Qué otras opciones se han considerado y por qué se han descartado?
 
 ## Consecuencias
 
-Describe los beneficios, costes, riesgos y compromisos derivados de la decisión.
+¿Qué consecuencias tiene esta decisión?
+
+### Positivas
+
+-
+
+### Negativas
+
+-
+
+### Riesgos
+
+-
+
+## Evidencias
+
+¿Qué información sustenta esta decisión?
+
+- Requisitos
+- Código
+- Documentación
+- Pruebas
+- Conversaciones
+- Correos
+- Experimentos
+- Otras decisiones
+
+## Revisión
+
+¿Cuándo y bajo qué circunstancias debería revisarse esta decisión?
