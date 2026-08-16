@@ -1,0 +1,13 @@
+# IASI text files
+*.qmd   text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.R     text eol=lf
+*.lua   text eol=lf
+*.scss  text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf
+*.html  text eol=lf
+*.md    text eol=lf
+*.sh    text eol=lf
+*.tex   text eol=lf
