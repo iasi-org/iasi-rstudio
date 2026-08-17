@@ -1,5 +1,75 @@
-.Rproj.user
+# ==============================================================================
+# Quarto
+# ==============================================================================
+
+# Estado interno y caché de Quarto
+/.quarto/
+
+# Salida predeterminada de Quarto Book
+/_book/
+
+# Salida personalizada que utilizaremos
+/_outputs/
+
+# Configuración local y posibles secretos
+/_*.local
+
+
+# ==============================================================================
+# R y RStudio
+# ==============================================================================
+
+# Estado local del proyecto RStudio
+/.Rproj.user/
+
+# Historial y espacio de trabajo local de R
 .Rhistory
 .RData
 .Ruserdata
-*.tar.gz
+
+
+# ==============================================================================
+# Sistema operativo
+# ==============================================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# ==============================================================================
+# Archivos temporales que todavia no sabemos por que se generan
+# ==============================================================================
+
+ /chapters/**/*_files/
+
+# ==============================================================================
+# Archivos temporales de editores
+# ==============================================================================
+
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.zip
+~$*
+**/*.quarto_ipynb
+
+# Quarto
+.quarto/
+
+# Renderizados
+_site/
+_book/
+
+# Caché
+_cache/
+
+# Logs
+*.log
+
+# Codex
+.codex*
